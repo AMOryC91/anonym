@@ -1,7 +1,7 @@
 import os
 
 # Токен бота
-API_TOKEN = "8439192645:AAG8jLJa9Y3vA5gI_heyoEvm_HcfU_ripVA"
+API_TOKEN = "8439192645:AAFnDuw0XhfWxqkAODE-9_oq0aB8_79PMFU"
 
 # Владельцы (список ID)
 OWNER = [1890263091]
